@@ -24,10 +24,10 @@ pip install Flask
 
 Run the Flask application:
 python app.py
-Open your web browser and go to http://localhost:5000 to access the web application.
+Open your web browser and go to http://stevearevalo.pythonanywhere.com/ to access the web application.
 
 Usage:
-Access the web application by visiting http://localhost:5000 in your web browser.
+Access the web application by visiting http://stevearevalo.pythonanywhere.com/ in your web browser.
 Fill out the form with your name, email, and a message.
 Click the "Submit" button to send the form data to the server.
 Upon successful submission, you will receive a confirmation message.
